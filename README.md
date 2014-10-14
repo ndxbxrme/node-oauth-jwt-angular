@@ -1,2 +1,2 @@
-node-outh-jwt-angular
+node-oauth-jwt-angular
 =====================
